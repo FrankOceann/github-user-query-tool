@@ -1,6 +1,0 @@
-GitHub 用户信息
-用户名: octocat
-昵称: The Octocat
-公开仓库数量: 8
-粉丝数: 23014
-主页: https://github.com/octocat
